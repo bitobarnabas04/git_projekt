@@ -17,9 +17,16 @@ A webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg
 
 Ebben a sorban beillesztett `<b>kódrészlet</b>` van.
 
+###PHP kód:
 
 ```php
 $a = 23;
 $b = 11;
 echo $a + $b;
+```
+
+###JavaScript kód:
+```javascript
+var p = 23;
+alert("hahaha");
 ```
