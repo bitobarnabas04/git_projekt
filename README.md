@@ -18,7 +18,7 @@ A webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg
 Ebben a sorban beillesztett `<b>kódrészlet</b>` van.
 
 
-```
+```php
 $a = 23;
 $b = 11;
 echo $a + $b;
