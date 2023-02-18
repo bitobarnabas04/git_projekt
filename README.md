@@ -14,3 +14,12 @@ Webtanár: http://webtanar.hu
 [webtanár weblapja](http://webtanar.hu)
 
 A webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg
+
+Ebben a sorban beillesztett `<b>kódrészlet</b>` van.
+
+
+```
+$a = 23;
+$b = 11;
+echo $a + $b;
+```
