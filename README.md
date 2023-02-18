@@ -1,2 +1,4 @@
-# git_projekt
-oktatóvideó alapján
+# Első Git projektünk
+## Ez a rövid leírás
+
+A webtanár oktatóvideója alapján
