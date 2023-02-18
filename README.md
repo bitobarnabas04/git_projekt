@@ -9,4 +9,8 @@
 2. lista elem
 3. lista elem
 
+Webtanár: http://webtanar.hu
+
+[webtanár weblapja](http://webtanar.hu)
+
 A webtanár **oktatóvideója** alapján készült ez a *formázott* szöveg
