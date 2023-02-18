@@ -1,5 +1,6 @@
 
 Első sor.
 
-git config --global user.mail "bitobarnabas04@gmail.com"
-git config --global user.name "bitobarnabas04"
+Második sor
+
+Harmadik sor
