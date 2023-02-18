@@ -29,7 +29,13 @@ print "Konfliktus lesz...";
 
 
 
+// Szorzás
+//------------------
 
+$kicsi = 3;
+$nagy = 23;
+
+print ($kicsi * $nagy) . "<br /><br />";
 
 // Itt a vége. :-)
 ?>
